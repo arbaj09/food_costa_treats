@@ -10,4 +10,4 @@ Nice design of a responsive restaurant website 🥗 . It contains a header, home
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 - GitHub pages: https://ankit-saha-iiitbbsr.github.io/responsive-website-restaurant/
 
-## ![preview img](/preview.png)
+### ![preview img](/preview.png)
